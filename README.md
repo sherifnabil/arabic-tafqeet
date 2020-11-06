@@ -1,6 +1,9 @@
+
 # Arabic Tafqeet تفقيط الأرقام باللغة العربية :)
 
-An Arabic Tafqeet Classes all You need is to add it to your Laravel App Directory add use the class and it goes really well
+An Arabic Tafqeet Classes all You need is to add it to 
+your Laravel App Directory In Directory with name Tafqeet and put those files in and
+add use the class and it goes really well
 #
 Usage Tafqeet::inArabic($amount,'usd')
 #
