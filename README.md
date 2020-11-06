@@ -10,9 +10,9 @@ Usage `Tafqeet::inArabic($amount,'usd')`
 > supporing most of arabic currencies same >  => 
 * `sar` 
 * `egp` 
-*`kwd` 
+* `kwd` 
 #
 Example:  
 `Tafqeet::inArabic(132840.00	,'egp')` 
 #
-* // فقط مائة و إثنان و ثلاثون ألف و ثمانية مائة و أربعون جنيه لا غير	 *
+`// فقط مائة و إثنان و ثلاثون ألف و ثمانية مائة و أربعون جنيه لا غير`
