@@ -7,7 +7,7 @@ add use the class and it goes really well
 #
 Usage `Tafqeet::inArabic($amount,'usd')`
 #
-> supporing most of arabic currencies same >  => 
+> supporing most of arabic currencies As
 * `sar` 
 * `egp` 
 * `kwd` 
